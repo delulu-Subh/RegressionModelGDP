@@ -1,7 +1,3 @@
-Perfect! Your GitHub repo structure is clear and minimal, which works well for a project like this. Based on the screenshot, here’s a **fancy, portfolio-ready README** tailored to your exact file structure:
-
----
-
 # 📊 RegressionModelGDP
 
 **Predicting China's GDP (1960–2014) using Regression Models**
